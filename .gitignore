@@ -11,6 +11,9 @@ node_modules
 # C extensions
 *.so
 
+# data
+/app/data
+
 # Distribution / packaging
 .Python
 build/
